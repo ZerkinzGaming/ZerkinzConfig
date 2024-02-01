@@ -1,0 +1,10 @@
+## Interface: 100205
+## Author: ZERKiN[z]-Illidan | Zerkinz#1272 | ZerkinzGaming@Gmail.com | |rRj Perkins | RypeDesigns@gmail.com 
+## Version: 0.902
+## Title: |cffFFFFFF|cffFF0000ZERKiNZ|r|||cffFFFFFFCONFiG|r['ver'] |r =|cffFFFFFF 1.0|r;
+## Notes: |cffFF0000Includes all relevant & highly custom configured CVars to enable & install Blizzard's hidden ActionCam featureset, improve ASSAO Shadows, and increase Graphics subjectively, and improve Performance objectively!|r
+## Dependecies: ElvUI
+## DefaultState: enabled
+## SavedVariables:              ZerkinzCfgAcct,     __ZerkinzConfig_Account
+## SavedVariablesPerCharacter:  ZerkinzCfgChar,     __ZerkinzConfig_Character
+ZerkinzConfig.Sources.xml
